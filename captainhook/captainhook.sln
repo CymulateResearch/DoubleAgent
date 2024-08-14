@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "captainhook", "captainhook\captainhook.csproj", "{B9D48B1B-13AA-4E29-A0E1-B9D0411F9B7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9D48B1B-13AA-4E29-A0E1-B9D0411F9B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9D48B1B-13AA-4E29-A0E1-B9D0411F9B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9D48B1B-13AA-4E29-A0E1-B9D0411F9B7F}.Debug|x64.ActiveCfg = Debug|x64
+		{B9D48B1B-13AA-4E29-A0E1-B9D0411F9B7F}.Debug|x64.Build.0 = Debug|x64
+		{B9D48B1B-13AA-4E29-A0E1-B9D0411F9B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9D48B1B-13AA-4E29-A0E1-B9D0411F9B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9D48B1B-13AA-4E29-A0E1-B9D0411F9B7F}.Release|x64.ActiveCfg = Release|x64
+		{B9D48B1B-13AA-4E29-A0E1-B9D0411F9B7F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A68672F5-5400-4D9F-89C7-D00E453572A9}
+	EndGlobalSection
+EndGlobal
