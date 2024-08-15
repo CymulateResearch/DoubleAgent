@@ -25,4 +25,4 @@ The project consists of two main components:
    - Add the dll inside the folder as a reference to the project.
 
 ## References
-- [Original blog post link]
+- [[Original blog post link]](https://cymulate.com/blog/exploiting-pta-credential-validation-in-azure-ad/)
